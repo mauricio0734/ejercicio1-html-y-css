@@ -1,0 +1,27 @@
+h1{
+    font-size: 34px;
+    font-weight: 200px;
+    font-style: normal;
+    color:darkslategrey;
+}
+img{
+    image-rendering: auto;
+}
+.titulo1{
+    font-size: 26px;
+    color: cadetblue;
+}
+li{
+    font-size: 18px;
+    color: olive;
+}
+.titulo2{
+    font-size: 24px;
+    color: darkolivegreen;
+}
+
+p{
+    font-style: italic;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
